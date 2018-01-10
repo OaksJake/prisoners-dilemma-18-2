@@ -8,7 +8,12 @@
 
 team_name = 'Sozi' 
 """
-Gender:	Masculine Type:	Adult Nationality:	Norwegian Location:	Norway Language:	Norwegian Life & Times Age:	50 Birth date:	May 20, 1967 (10:37 AM)
+Gender:	Masculine Type:	Adult 
+Nationality:	Norwegian 
+Location:	Norway 
+Language:	Norwegian 
+Life & Times Age:	50 
+Birth date:	May 20, 1967 (10:37 AM)
 Physical
 Height:	171 cm / 5 ft 7 in
 Weight:	74 kg / 162 lbs
